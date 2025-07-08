@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hello. I am Ruslan Kashanov. 👋</h1>
+<h1 align="center">Hello. I am Ruslan Khasanov. 👋</h1>
 
 ###
 
